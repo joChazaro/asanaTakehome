@@ -3,6 +3,7 @@ Takehome exercise provided by Asana for Data Science internship. Suggested time 
 
 **Provided Information along with data**: We define an "adopted user" as a user who has logged into the product on three separate days in at least one seven-day period. Because we believe that adopted users are more likely to be successful at using Asana in the long term than those that are not adopted, we want to know what things are likely indicators of future adoption. 
 **Objective: With this in mind, we'd like you to identify which factors predict user adoption.**
+
 The data has the following two files:
  
 A user file ("takehome_users") with data on 12,000 users who signed up for the product in the last two years. This table includes:
