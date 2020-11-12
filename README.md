@@ -28,7 +28,6 @@ A user file ("takehome_users") with data on 12,000 users who signed up for the p
   - A usage summary file ("takehome_user_engagement") that has a row for each day that a user logged into the product.
  
 **Please send us a brief report with your findings, along with any summary tables or graphs that you think will help us better understand them. We will not consider more than 1 page of text and 1 page of supplementary visuals. Please also include all of the code you used to arrive at your results. We will be grading the report and your code.**
- ---------------------------------------------------------------------------------------------------------------------------------
  
  Project walkthrough 
  - Part 1 ("takehome_users"): 
@@ -36,12 +35,12 @@ A user file ("takehome_users") with data on 12,000 users who signed up for the p
 - Part 2 ("takehome_user_engagement"): 
    - Raw Data exploration: Raw data seems to indicate the amount of times a user (identified by user ID) engages with Asana with respected dates and time. The time_stamp column includes both date and time which may cause issues when parsing through. This data may have to be separated for easier analysis of which users may be "adopted users" based on their engagement in a 7-day period.
 - Part 3 Data cleaning
-   - 
+    
 - Part 4 Feature space selection
-   - 
+    
 - Part 5 
-   - 
+    
 - Part 6
-   - 
+    
 - Part 7
-   - 
+    
