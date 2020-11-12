@@ -8,7 +8,7 @@ Additional information:
 The data has the following two files:
  
 A user file ("takehome_users") with data on 12,000 users who signed up for the product in the last two years. This table includes:
-  name: the user's name
+  *name*: the user's name
   object_id: the user's id
   email: email address
   email_domain: domain of email address, e.g. gmail.com
