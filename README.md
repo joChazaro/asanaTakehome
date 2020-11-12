@@ -30,17 +30,16 @@ A user file ("takehome_users") with data on 12,000 users who signed up for the p
 **Please send us a brief report with your findings, along with any summary tables or graphs that you think will help us better understand them. We will not consider more than 1 page of text and 1 page of supplementary visuals. Please also include all of the code you used to arrive at your results. We will be grading the report and your code.**
  
  Project walkthrough 
- - Part 1 ("takehome_users"): 
-   - Raw Data exploration: Of the data provided, I am thinking that the most useful will be creation_source (to see which source leads to user adoption; marketing drip and mailing list usage which could demonstrate which users may be interested to learn more about Asana and how to integrate it into their workflow; creation time which may identify starting point of user's adoption of Asana; and last_session_creation_time which is filled with 10 digit entries and has missing values for various users. I will assume this is correctly provided data, however I am unsure how I'll be able to apply this information in a useful manner.
-- Part 2 ("takehome_user_engagement"): 
-   - Raw Data exploration: Raw data seems to indicate the amount of times a user (identified by user ID) engages with Asana with respected dates and time. The time_stamp column includes both date and time which may cause issues when parsing through. This data may have to be separated for easier analysis of which users may be "adopted users" based on their engagement in a 7-day period.
-- Part 3 Data cleaning
+ - Part 1 understanding the data: 
+   - Raw Data exploration("takehome_users"): Of the data provided, I am thinking that the most useful will be creation_source (to see which source leads to user adoption; marketing drip and mailing list usage which could demonstrate which users may be interested to learn more about Asana and how to integrate it into their workflow; creation time which may identify starting point of user's adoption of Asana; and last_session_creation_time which is filled with 10 digit entries and has missing values for various users. I will assume this is correctly provided data, however I am unsure how I'll be able to apply this information in a useful manner.
+ 
+   - Raw Data exploration("takehome_user_engagement"): Raw data seems to indicate the amount of times a user (identified by user ID) engages with Asana with respected dates and time. The time_stamp column includes both date and time which may cause issues when parsing through. This data may have to be separated for easier analysis of which users may be "adopted users" based on their engagement in a 7-day period.
+- Part 2 Data cleaning
     
-- Part 4 Feature space selection
+- Part 3 Feature Space Selection
     
-- Part 5 
+- Part 4 Data Modeling
     
-- Part 6
+- Part 5 Optimization and Deployment
     
-- Part 7
     
