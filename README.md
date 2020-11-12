@@ -1,5 +1,5 @@
 # asanaTakehome
-Takehome exercise provided by Asana for Data Science internship. Suggest time for completion: ~3 hours
+Takehome exercise provided by Asana for Data Science internship. Suggested time for completion: ~3 hours
 
 **Provided Information along with data**: We define an "adopted user" as a user who has logged into the product on three separate days in at least one seven-day period. Because we believe that adopted users are more likely to be successful at using Asana in the long term than those that are not adopted, we want to know what things are likely indicators of future adoption. 
 **Objective: With this in mind, we'd like you to identify which factors predict user adoption.**
