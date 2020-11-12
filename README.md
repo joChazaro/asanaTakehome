@@ -27,5 +27,5 @@ A user file ("takehome_users") with data on 12,000 users who signed up for the p
  (second data file)
   - A usage summary file ("takehome_user_engagement") that has a row for each day that a user logged into the product.
  
-**Please send us a brief report with your findings, along with any summary tables or graphs that you think will help us better understand them. We will not consider more than 1 page of text and 1 page of supplementary visuals. Please also include all of the code you used to arrive at your results. We will be grading the report and your code. **
+**Please send us a brief report with your findings, along with any summary tables or graphs that you think will help us better understand them. We will not consider more than 1 page of text and 1 page of supplementary visuals. Please also include all of the code you used to arrive at your results. We will be grading the report and your code.
  
